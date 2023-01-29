@@ -1,0 +1,2785 @@
+fileFormatVersion: 2
+guid: 62383b0fd40c788488ab581aa9da7d5d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 90
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241ed650493c6d46b804f9328d6daf1
+      internalID: 1884716721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 123
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c769c1182bffe47b88f9505d0ad597
+      internalID: 1223265814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_96
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22969530d3c2e7c4ea7eb6aac13b94e2
+      internalID: 1491828717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_68
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 78
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f20dcc631ec234283cf5262dca9aa0
+      internalID: -369747474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_66
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04288b088540254e91f7870779ce965
+      internalID: -2136737546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 90
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3deeba9ee4e5fe4eb7fc2b6812e6254
+      internalID: -903048570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_80
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 37
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d3988ec33fd641bb4d44926d2e125
+      internalID: -704644394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_90
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c51c7b3156874c9ea2db3922a6d19
+      internalID: 241853750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 166
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba2c1c50d2a1743887fe8d6d370a5f
+      internalID: 1625212351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 134
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb9e86cf8ecd854784e3bec1b6f605b
+      internalID: 182198314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 50
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d530f4ec648c14cbbd0630f68bb4f5
+      internalID: 1853586966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb1b41f13bbc25459dda5385b24a9d2
+      internalID: 1905067139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_101
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 46
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19cbff71d938cd4189fae28894d8209
+      internalID: -984302602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32246bc348679a94fbe8b09c29214c36
+      internalID: -402298262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_73
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde1b44ef4736ff4f9cb95d084ee8865
+      internalID: -611220827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_64
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 80
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61877cc24740a54f906b3159e9e5052
+      internalID: 263916195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_117
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f8813980baec24b96a6668b612fb57
+      internalID: -288448108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e012f38d333284ea7b4a8bcd840f65
+      internalID: -501000091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 94
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9625281a50046440b3e6657e41875ad
+      internalID: 1256892450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b88c01d604ec4c84f4c676ac78c69
+      internalID: 1068978896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f72bcd26ee8f540ac0e03ce0f040ab
+      internalID: -829871037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 118
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db94c5e94b3cb81418648698b4da6081
+      internalID: -1136047005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 153
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34190c6e04e0ab643bc8a2c65f60391f
+      internalID: -1759833763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 165
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390fe7f8cdb53b40b4d4f0f3da63c5d
+      internalID: -1364438700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 153
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a19c5e20c9ec4b8be64b69103990e
+      internalID: -86091235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 90
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e01794e21413e84396404187979f0f8
+      internalID: 1966879496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 138
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe98d0b3dbd6bc41b08c434bddd6ae2
+      internalID: 413542638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_98
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 46
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ceabcbead690540807bf5a085039ba
+      internalID: 963065270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a933da6735a3e4f9c9997cb826687b
+      internalID: -1051058170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_82
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c858d4ca5e1b904c963d0a1a8dbda0b
+      internalID: 1456101015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 119
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63829905614e56f46bab810262bc7b8b
+      internalID: 2087305728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_54
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 90
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc34b4e937bb85408d9de8b0ab99fc3
+      internalID: -1478123227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_104
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 46
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08970ee1ce6ba5e4b809c5c22795a5fa
+      internalID: 1308685945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 90
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb19d622cd8f874da16a99b9eda87a3
+      internalID: -2071291079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_56
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 90
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109b9605a2f9774380613c7d1b63666
+      internalID: -242300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85270b642bfb964a82829aa6a30e456
+      internalID: -1155437087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 119
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7319f3fa12147154fb5cbc8d65f9548d
+      internalID: -888216593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_108
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910a564d8e820b4469a52546ef9a96cd
+      internalID: -155711059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053edf89723c986479e657baaf3ff874
+      internalID: 2138793942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_70
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 78
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63dcda06ea87b46b2d5fcd1f7e2147
+      internalID: 2034666466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 46
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79438ff81c239794b8d58722943ff9cd
+      internalID: -1892015460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 7
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb66e7b5231864eb258d75640f5154
+      internalID: -1415823873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b533f43ae7ee2418533267b4b59d32
+      internalID: -200534420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 90
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d205448385731a545b3b909f235e8474
+      internalID: -337144966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_114
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 9
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a974b2b76d3db345972b1b91778396a
+      internalID: -1262782905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_84
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0ae912c283210469f7d4d1fee5277e
+      internalID: 294953068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_88
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6b3aade42e3743b8290929c9f9671
+      internalID: 1442205580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_87
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc824936eca0f542a413e29fdab8bb6
+      internalID: -587565217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_81
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 49
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680bce6023aada4ea320f060b7b05b4
+      internalID: -670864580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d2cb4686404e4499fab0dac7334878
+      internalID: -1192883735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722f945b183dc949ab169064839d5ec
+      internalID: 806452469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_89
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2b9899da0f964abcdf7783b340ad4
+      internalID: 951800671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_107
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a763c813cd38d42a1e3b18862ade4c
+      internalID: -238874273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b7782b0dadd124ca7a4fe445b7732e
+      internalID: 277892604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 119
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809e3a3e6d341c4ca0f6e3744a755f7
+      internalID: -1541264895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 134
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464452b0ed2bf24fb552dfd17b28cf9
+      internalID: -1826165030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 53
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d80e96680ccf4a998afd82d68c3d2
+      internalID: -1597472860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_110
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e940c400355f2c4eaa0a4137616db52
+      internalID: 1662567370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 53
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6627599c88283f54c8fd6a7a14f525e7
+      internalID: -830065349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_118
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95760f456517dd140af3b525922ad93b
+      internalID: -1848991614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca6f53b5dc190e469ee85b319527e55
+      internalID: -178022132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 46
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4843acb7f452943be25aa30c27a9d2
+      internalID: 811616272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_105
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 46
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d846e45bea2b6146901dab3bf721bd9
+      internalID: -1973745271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917fff83b0851934e991a4fe4c1f012d
+      internalID: -1701682932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_102
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 46
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573ec2f66abf3a47a94b5f04c22f6eb
+      internalID: -1190348942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 90
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17507d5640760794dab58ff9057e4b26
+      internalID: 1293175160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 134
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312aa063ea2af2d4b898482a6634c929
+      internalID: 1793162960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 90
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac4e2606ad218b4ca5f7e6abbe20c6c
+      internalID: -1939994047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0786634eb9e0f849b3c820e3ce40389
+      internalID: -2137693789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78175832c0896ae41a7f7e07effcd354
+      internalID: 1801676348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a701dad54be31a7458943f617f641cfb
+      internalID: -1866591816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_116
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 11
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5edd908385f8489475628a4e2f2de
+      internalID: -1383992432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_57
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 90
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217bd83b0be4004b88e9a521c93bab2
+      internalID: -1345852580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 94
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633feae2bfdbef4dbfe3237b652d553
+      internalID: -271204925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22182a25f4d279442b517613fd7a5a51
+      internalID: -67025352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_119
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b903d1e864c4c25429934e4746acbfda
+      internalID: 1294888847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb049d751510ab4e938a91002eae828
+      internalID: -285131269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 118
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c486f55580055743b8d639acebac49a
+      internalID: -205723042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 158
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f01dc0a6f2e74348b96ff26ec8d21d3
+      internalID: 1821797411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 90
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098e5259275b14143862dcc290a3af07
+      internalID: -1376384404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b4ee956cf094040a04e665012ce60d
+      internalID: -201797933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848aa823c0bb054da6c492640827834
+      internalID: 2132071012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_59
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 90
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47f0b173654d24d8fe0c67ec56a44d
+      internalID: 1940183957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46506b51dc7c6b4cb24aaaa18514646
+      internalID: 1917652368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_109
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073d52d43dcfb7f41a879e8399b446b9
+      internalID: 1137902711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_106
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 13
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7394e145127622f4cb938b379d4ec494
+      internalID: -1349928801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_115
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 11
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9e99b154e792449f49f83b89f1fe6
+      internalID: 1918855719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 118
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d7645016ccfd42a8b697f7757626a
+      internalID: 1739479916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_100
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 46
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daab21ec775e184c8482e0e181e9ce9
+      internalID: 870606444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc17a90b920bb72478c21368d1cd2fe8
+      internalID: 942703356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095d4d1f1edd7e4abd26bd75c43eb8a
+      internalID: 831148706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4240ef14ecc651442a0040b5aba94856
+      internalID: -30506614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_113
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9882588e5904934d974359df2891a5d
+      internalID: -150050556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf425dea52e3f0f43aedda1570994634
+      internalID: -1916084871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f43843578be944a981ebd0eeb4a3d
+      internalID: 860289978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e394614115724099aaef03de683aa
+      internalID: 1866864892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2967073af1418248812de7412614eb3
+      internalID: 1906832273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a3b6cece055545aaf1fea6f538e74
+      internalID: -615237490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_97
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a1729ebf5439c46bd8547b02a1c0fa
+      internalID: 82662565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_71
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f44552c350ecf4b985aa96e6d822cf
+      internalID: -1437466985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 119
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8ddd6b078de624e9e1dec43e3a7050
+      internalID: -2041775767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 159
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fa62593ced5443a25742218920cf6
+      internalID: -785881737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_99
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 46
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c521de139a913ae4bbcff3d70dc4a404
+      internalID: -1170675230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_95
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef1d3368f12724ea5d3f862755ef4e
+      internalID: 1932095782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 152
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f939490aebb8d9e4f8c2d341ce5f630f
+      internalID: 1957382754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 117
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467b58155ffe81c4d8960e37a5730dd6
+      internalID: 17554362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 119
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ef51f9952e555438ff5e520888793d
+      internalID: -575138619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_77
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 46
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6546ad87e4f8a4d42bd7c6651b5110af
+      internalID: -311364789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 153
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed0f441ed0fa94eb0a7ede1b5b19f2
+      internalID: 361635494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_86
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a0db91bb926d4582d946040987299
+      internalID: 1740663207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_72
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 78
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c821dc7ccf6b4ead30ea2912c8947
+      internalID: -13435008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbdbfbcfdab0e74296cc2fc8cae6022
+      internalID: -634275474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_103
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 46
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735bfdfe7cea4045ae43e66106eafd2
+      internalID: -1513060451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e91620cb5fc75446ae0271bffbf4a65
+      internalID: -970043601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_69
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2c0591ab0f7748aacec91a0cbacc0
+      internalID: 1588487607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 116
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91631d0b3478bb241ae1e86b7025f18d
+      internalID: -239860188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 134
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450f84bc769cbf4c8a27e99fb7fe19f
+      internalID: 2103477964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_74
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e357554e4b95774fb9d16a81232c1f4
+      internalID: 618491961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 14
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cddef19c627c1f46ae64d7489ad9dc0
+      internalID: 188655483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_51
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bdb3f70c35d543a0bec4471ed63c3
+      internalID: -314779314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIWHWYSAE_prototype_assets_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 166
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7563fdc5f27a3c48b79e902b6dc9eff
+      internalID: 2067873503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TIWHWYSAE_prototype_assets_109: 1137902711
+      TIWHWYSAE_prototype_assets_24: -1826165030
+      TIWHWYSAE_prototype_assets_72: -13435008
+      TIWHWYSAE_prototype_assets_20: 2132071012
+      TIWHWYSAE_prototype_assets_11: 2067873503
+      TIWHWYSAE_prototype_assets_74: 618491961
+      TIWHWYSAE_prototype_assets_22: 2103477964
+      TIWHWYSAE_prototype_assets_58: 1293175160
+      TIWHWYSAE_prototype_assets_117: -288448108
+      TIWHWYSAE_prototype_assets_48: -201797933
+      TIWHWYSAE_prototype_assets_71: -1437466985
+      TIWHWYSAE_prototype_assets_66: -2136737546
+      TIWHWYSAE_prototype_assets_35: 1256892450
+      TIWHWYSAE_prototype_assets_60: -1597472860
+      TIWHWYSAE_prototype_assets_54: -1478123227
+      TIWHWYSAE_prototype_assets_88: 1442205580
+      TIWHWYSAE_prototype_assets_8: -86091235
+      TIWHWYSAE_prototype_assets_114: -1262782905
+      TIWHWYSAE_prototype_assets_12: -1051058170
+      TIWHWYSAE_prototype_assets_49: 942703356
+      TIWHWYSAE_prototype_assets_68: -369747474
+      TIWHWYSAE_prototype_assets_76: 806452469
+      TIWHWYSAE_prototype_assets_80: -704644394
+      TIWHWYSAE_prototype_assets_81: -670864580
+      TIWHWYSAE_prototype_assets_16: 1223265814
+      TIWHWYSAE_prototype_assets_30: -205723042
+      TIWHWYSAE_prototype_assets_89: 951800671
+      TIWHWYSAE_prototype_assets_85: -285131269
+      TIWHWYSAE_prototype_assets_18: -888216593
+      TIWHWYSAE_prototype_assets_113: -150050556
+      TIWHWYSAE_prototype_assets_46: 1966879496
+      TIWHWYSAE_prototype_assets_14: -615237490
+      TIWHWYSAE_prototype_assets_34: -271204925
+      TIWHWYSAE_prototype_assets_99: -1170675230
+      TIWHWYSAE_prototype_assets_104: 1308685945
+      TIWHWYSAE_prototype_assets_101: -984302602
+      TIWHWYSAE_prototype_assets_28: -1916084871
+      TIWHWYSAE_prototype_assets_94: -634275474
+      TIWHWYSAE_prototype_assets_110: 1662567370
+      TIWHWYSAE_prototype_assets_47: 1866864892
+      TIWHWYSAE_prototype_assets_75: 277892604
+      TIWHWYSAE_prototype_assets_59: 1940183957
+      TIWHWYSAE_prototype_assets_93: -1192883735
+      TIWHWYSAE_prototype_assets_63: 811616272
+      TIWHWYSAE_prototype_assets_17: -785881737
+      TIWHWYSAE_prototype_assets_78: 1801676348
+      TIWHWYSAE_prototype_assets_15: 2087305728
+      TIWHWYSAE_prototype_assets_70: 2034666466
+      TIWHWYSAE_prototype_assets_23: 182198314
+      TIWHWYSAE_prototype_assets_42: 1068978896
+      TIWHWYSAE_prototype_assets_21: 1793162960
+      TIWHWYSAE_prototype_assets_26: 17554362
+      TIWHWYSAE_prototype_assets_86: 1740663207
+      TIWHWYSAE_prototype_assets_40: -67025352
+      TIWHWYSAE_prototype_assets_73: -611220827
+      TIWHWYSAE_prototype_assets_1: -1701682932
+      TIWHWYSAE_prototype_assets_13: 1957382754
+      TIWHWYSAE_prototype_assets_38: 1906832273
+      TIWHWYSAE_prototype_assets_90: 241853750
+      TIWHWYSAE_prototype_assets_112: -1415823873
+      TIWHWYSAE_prototype_assets_120: -402298262
+      TIWHWYSAE_prototype_assets_43: 831148706
+      TIWHWYSAE_prototype_assets_119: 1294888847
+      TIWHWYSAE_prototype_assets_55: -337144966
+      TIWHWYSAE_prototype_assets_100: 870606444
+      TIWHWYSAE_prototype_assets_7: 361635494
+      TIWHWYSAE_prototype_assets_50: 1905067139
+      TIWHWYSAE_prototype_assets_69: 1588487607
+      TIWHWYSAE_prototype_assets_111: -829871037
+      TIWHWYSAE_prototype_assets_45: -1939994047
+      TIWHWYSAE_prototype_assets_87: -587565217
+      TIWHWYSAE_prototype_assets_79: 1853586966
+      TIWHWYSAE_prototype_assets_96: 1491828717
+      TIWHWYSAE_prototype_assets_32: -1541264895
+      TIWHWYSAE_prototype_assets_53: -903048570
+      TIWHWYSAE_prototype_assets_62: -1892015460
+      TIWHWYSAE_prototype_assets_27: -1136047005
+      TIWHWYSAE_prototype_assets_25: -239860188
+      TIWHWYSAE_prototype_assets_84: 294953068
+      TIWHWYSAE_prototype_assets_116: -1383992432
+      TIWHWYSAE_prototype_assets_9: -1759833763
+      TIWHWYSAE_prototype_assets_3: -1364438700
+      TIWHWYSAE_prototype_assets_41: -970043601
+      TIWHWYSAE_prototype_assets_95: 1932095782
+      TIWHWYSAE_prototype_assets_0: 1821797411
+      TIWHWYSAE_prototype_assets_98: 963065270
+      TIWHWYSAE_prototype_assets_107: -238874273
+      TIWHWYSAE_prototype_assets_92: -1866591816
+      TIWHWYSAE_prototype_assets_64: 263916195
+      TIWHWYSAE_prototype_assets_19: 413542638
+      TIWHWYSAE_prototype_assets_61: -830065349
+      TIWHWYSAE_prototype_assets_91: -30506614
+      TIWHWYSAE_prototype_assets_29: 1739479916
+      TIWHWYSAE_prototype_assets_36: -200534420
+      TIWHWYSAE_prototype_assets_108: -155711059
+      TIWHWYSAE_prototype_assets_39: 1917652368
+      TIWHWYSAE_prototype_assets_57: -1345852580
+      TIWHWYSAE_prototype_assets_31: -575138619
+      TIWHWYSAE_prototype_assets_106: -1349928801
+      TIWHWYSAE_prototype_assets_10: -2071291079
+      TIWHWYSAE_prototype_assets_102: -1190348942
+      TIWHWYSAE_prototype_assets_44: -1155437087
+      TIWHWYSAE_prototype_assets_33: -2041775767
+      TIWHWYSAE_prototype_assets_83: 188655483
+      TIWHWYSAE_prototype_assets_56: -242300222
+      TIWHWYSAE_prototype_assets_51: -314779314
+      TIWHWYSAE_prototype_assets_97: 82662565
+      TIWHWYSAE_prototype_assets_115: 1918855719
+      TIWHWYSAE_prototype_assets_65: 860289978
+      TIWHWYSAE_prototype_assets_52: 1884716721
+      TIWHWYSAE_prototype_assets_2: 2138793942
+      TIWHWYSAE_prototype_assets_37: -2137693789
+      TIWHWYSAE_prototype_assets_118: -1848991614
+      TIWHWYSAE_prototype_assets_82: 1456101015
+      TIWHWYSAE_prototype_assets_67: -501000091
+      TIWHWYSAE_prototype_assets_77: -311364789
+      TIWHWYSAE_prototype_assets_6: -1376384404
+      TIWHWYSAE_prototype_assets_5: 1625212351
+      TIWHWYSAE_prototype_assets_103: -1513060451
+      TIWHWYSAE_prototype_assets_105: -1973745271
+      TIWHWYSAE_prototype_assets_4: -178022132
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
