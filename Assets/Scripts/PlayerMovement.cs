@@ -48,12 +48,13 @@ public class PlayerMovement : MonoBehaviour
         Flip();
     }
 
-    public void OnLanding()
-    {
-       
+     public void OnLanding()
+      {
+         if (IsGrounded()){
             animator.SetBool("IsJumping", false);
+        }
        
-    }
+      }
 
     private void FixedUpdate()
     {
