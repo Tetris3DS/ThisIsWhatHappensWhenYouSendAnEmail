@@ -38,6 +38,10 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("IsJumping", true);
             rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
         }
+        else
+        {
+            animator.SetBool("IsJumping", false);
+        }
 
         if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)
         {
