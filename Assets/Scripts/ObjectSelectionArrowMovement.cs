@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class ObjectSelectionArrowMovement : MonoBehaviour
 {
+    public float speed = 10f;
 
-
- function OnTriggerEnter(info : Collider)
- {
-      if(info.gameObject.tag == "WandRange")
-     {
-           if (Input.GetKey(KeyCode.RightArrow))
-     {
-         transform.position += Vector3.right * speed * Time.deltaTime;
-     }
- }
- }
+    public void OnTriggerEnter(Collider info)
+    {
+         if(info.gameObject.tag == "WandRange")
+         {
+              if (Input.GetKey(KeyCode.RightArrow))
+              {
+                   transform.position += Vector3.right * speed * Time.deltaTime;
+              }
+         }
+    }
 }
