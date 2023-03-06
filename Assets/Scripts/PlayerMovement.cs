@@ -21,6 +21,8 @@ public class PlayerMovement : MonoBehaviour
     private float speed = 8f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
+    public AudioSource jumpSound;
+    public AudioSource landingSound;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -37,10 +39,12 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetBool("IsJumping", true);
             rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
+            jumpSound.Play();
         }
         else
         {
             animator.SetBool("IsJumping", false);
+           
         }
 
         if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)
@@ -56,6 +60,7 @@ public class PlayerMovement : MonoBehaviour
       {
          if (IsGrounded()){
             animator.SetBool("IsJumping", false);
+            
         }
        
       }
