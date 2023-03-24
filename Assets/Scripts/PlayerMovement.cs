@@ -18,8 +18,8 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator animator;
     private float horizontal;
-    private float speed = 8f;
-    private float jumpingPower = 16f;
+    private float speed = 4f;
+    private float jumpingPower = 8f;
     private bool isFacingRight = true;
     public AudioSource jumpSound;
     public AudioSource landingSound;

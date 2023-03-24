@@ -6,11 +6,13 @@ public class BoxController2 : MonoBehaviour
 {
 
     public KeyCode leftKey  = KeyCode.LeftArrow; // Change to KeyCode.LeftArrow in inspector
-public KeyCode rightKey = KeyCode.RightArrow;
-public float   speed = 1.0f;
+    public KeyCode rightKey = KeyCode.RightArrow;
+    public KeyCode upKey = KeyCode.UpArrow;
+    public KeyCode downKey = KeyCode.DownArrow;
+    public float   speed = 1.0f;
 
-private Vector2 _moveVelocity;
-public Rigidbody2D _rigidBody;
+    private Vector2 _moveVelocity;
+    public Rigidbody2D _rigidBody;
 
     // Start is called before the first frame update
     void Start()
@@ -30,6 +32,14 @@ public Rigidbody2D _rigidBody;
     if(Input.GetKey(rightKey))
     {
         moveInput = Vector2.right;
+    }
+    if(Input.GetKey(upKey))
+    {
+        moveInput = Vector2.up;
+    }
+    if(Input.GetKey(downKey))
+    {
+        moveInput = Vector2.down;
     }
 
     _moveVelocity = moveInput * speed * Time.deltaTime;
