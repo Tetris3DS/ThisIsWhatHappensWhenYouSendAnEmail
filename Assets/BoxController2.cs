@@ -14,10 +14,13 @@ public class BoxController2 : MonoBehaviour
     private Vector2 _moveVelocity;
     public Rigidbody2D _rigidBody;
 
+    
+
     // Start is called before the first frame update
     void Start()
     {
         _rigidBody = GetComponent<Rigidbody2D>();
+      
     }
 
     // Update is called once per frame
@@ -44,5 +47,13 @@ public class BoxController2 : MonoBehaviour
 
     _moveVelocity = moveInput * speed * Time.deltaTime;
     _rigidBody.velocity = _moveVelocity;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "WandRange")
+        {
+            this.GetComponent<BoxController2>().enabled = true;
+        }
     }
 }

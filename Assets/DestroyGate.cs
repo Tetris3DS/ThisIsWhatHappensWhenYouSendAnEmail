@@ -7,6 +7,9 @@ public class DestroyGate : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Destroy(GameObject.FindWithTag("gate"));
+        if (collision.gameObject.tag == "gate")
+        {
+            Destroy(GameObject.FindWithTag("gate"));
+        }
     }
 }
