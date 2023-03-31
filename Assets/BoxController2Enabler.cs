@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class BoxController2Enabler : MonoBehaviour
 {
-        private void OnTriggerEnter(Collision2D collision)
+        private void OnTriggerEnter2D(Collider2D col)
         {
-            if (collision.gameObject.tag == "WandRange")
+        Debug.Log("Haha!");
+            if (col.gameObject.tag == "WandRange")
             {
                 this.GetComponent<BoxController2>().enabled = true;
             }
