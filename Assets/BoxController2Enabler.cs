@@ -14,6 +14,7 @@ public class BoxController2Enabler : MonoBehaviour
             if (col.gameObject.tag == "WandRange")
             {
                 this.GetComponent<BoxController2>().enabled = true;
+                this.GetComponent<LineRenderer>().enabled = true;
             MagicLine = true;
             }
         }
@@ -23,6 +24,7 @@ public class BoxController2Enabler : MonoBehaviour
         if (col.gameObject.tag == "WandRange")
         {
             this.GetComponent<BoxController2>().enabled = false;
+            this.GetComponent<LineRenderer>().enabled = false;
             MagicLine = false;
         }
     }

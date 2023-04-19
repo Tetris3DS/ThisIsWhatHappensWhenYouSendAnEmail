@@ -42,10 +42,10 @@ public class LineController : MonoBehaviour
        
         if (boxController2Enabler.MagicLine == true)
         {
-            this.GetComponent<LineRenderer>().enabled = true;
+          //  this.GetComponent<LineRenderer>().enabled = true;
 
             //lineRenderer.SetPosition(1, target.position);
-            var player = GameObject.Find("Player");
+            var player = GameObject.Find("LightningRod");
             var magic = GameObject.Find("SelectableObject");
             lineRenderer.SetPosition(0, player.transform.position);
             lineRenderer.SetPosition(1, magic.transform.position);
@@ -63,7 +63,7 @@ public class LineController : MonoBehaviour
             }
             else
             {
-                this.GetComponent<LineRenderer>().enabled = false;
+               // this.GetComponent<LineRenderer>().enabled = false;
             }
         }
     }
