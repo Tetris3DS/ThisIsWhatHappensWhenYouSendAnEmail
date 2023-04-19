@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class LineController : MonoBehaviour
 {
+    public BoxController2Enabler boxController2Enabler;
 
     private LineRenderer lineRenderer;
 
     [SerializeField]
     private Texture[] textures;
+
+    
 
     private int animationStep;
 
@@ -36,9 +39,10 @@ public class LineController : MonoBehaviour
 
     private void Update()
     {
-        if (MagicLine == true)
+       
+        if (boxController2Enabler.MagicLine == true)
         {
-
+            this.GetComponent<LineRenderer>().enabled = true;
 
             //lineRenderer.SetPosition(1, target.position);
             var player = GameObject.Find("Player");
@@ -56,6 +60,10 @@ public class LineController : MonoBehaviour
                 lineRenderer.material.SetTexture("_MainTex", textures[animationStep]);
 
                 fpsCounter = 0f;
+            }
+            else
+            {
+                this.GetComponent<LineRenderer>().enabled = false;
             }
         }
     }

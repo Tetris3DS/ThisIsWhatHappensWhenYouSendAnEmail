@@ -24238,6 +24238,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a223df919cb4ca54f9dd13d762fbf31d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  boxController2Enabler: {fileID: 1530549885}
+  MagicLine: 0
   textures:
   - {fileID: 2800000, guid: 659c342e1ff50b242bbce16e72853c86, type: 3}
   - {fileID: 2800000, guid: 69466c09324bb7943a3c2df8f7f47c2c, type: 3}
