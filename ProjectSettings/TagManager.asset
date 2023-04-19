@@ -6,6 +6,10 @@ TagManager:
   tags:
   - WandRange
   - gate
+  - keyhole
+  - buttonGate
+  - button
+  - keyGate
   layers:
   - Default
   - TransparentFX
