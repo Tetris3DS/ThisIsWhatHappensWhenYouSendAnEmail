@@ -30,22 +30,33 @@ public class LineController : MonoBehaviour
         lineRenderer.positionCount = 2;
             lineRenderer.SetPosition(0, startPosition);
         target = newTarget;
+
+
     }
 
     private void Update()
     {
-        lineRenderer.SetPosition(1, target.position);
-
-        fpsCounter += Time.deltaTime;
-        if(fpsCounter >= 1f / fps)
+        if (MagicLine == true)
         {
-            animationStep++;
-            if (animationStep == textures.Length)
-                animationStep = 0; 
 
-            lineRenderer.material.SetTexture("_MainTex", textures[animationStep]);
 
-            fpsCounter = 0f;
+            //lineRenderer.SetPosition(1, target.position);
+            var player = GameObject.Find("Player");
+            var magic = GameObject.Find("SelectableObject");
+            lineRenderer.SetPosition(0, player.transform.position);
+            lineRenderer.SetPosition(1, magic.transform.position);
+
+            fpsCounter += Time.deltaTime;
+            if (fpsCounter >= 1f / fps)
+            {
+                animationStep++;
+                if (animationStep == textures.Length)
+                    animationStep = 0;
+
+                lineRenderer.material.SetTexture("_MainTex", textures[animationStep]);
+
+                fpsCounter = 0f;
+            }
         }
     }
 }
