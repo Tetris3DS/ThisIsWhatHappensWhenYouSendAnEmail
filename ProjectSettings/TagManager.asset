@@ -10,6 +10,9 @@ TagManager:
   - buttonGate
   - button
   - keyGate
+  - block
+  - enemy
+  - hammer
   layers:
   - Default
   - TransparentFX

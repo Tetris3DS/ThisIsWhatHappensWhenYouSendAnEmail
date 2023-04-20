@@ -14,4 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level1Updated.unity
     guid: f487c6e00b308234b83f3df6bc559249
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/BigTestWorld.unity
+    guid: c3ce58d1a0cbc9b4b9798a96de5eddb9
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 6ccc86a53ae2869478db4266a69191e4, type: 2}

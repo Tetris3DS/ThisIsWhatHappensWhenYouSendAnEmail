@@ -24,6 +24,8 @@ public class PlayerMovement : MonoBehaviour
     public AudioSource jumpSound;
     public AudioSource landingSound;
 
+    public GameObject pauseMenu;
+
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -51,6 +53,11 @@ public class PlayerMovement : MonoBehaviour
         {
             
             rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 0.5f);
+        }
+
+        if (Input.GetButtonDown("Cancel"))
+        {
+            pauseMenu.GetComponent<pauseMenu>().enabled = true;
         }
 
         Flip();
