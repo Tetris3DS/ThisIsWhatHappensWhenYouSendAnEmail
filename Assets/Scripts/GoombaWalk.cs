@@ -2,12 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GoombaWalk : MonoBehaviour
 {
     private bool isFacingRight = true;
     private float horizontal;
     public float _speed = 4f;
+    private Text deathCountTxt;
+    private int deathCount;
 
     public GameObject Player;
     private Rigidbody2D player;
@@ -53,6 +56,8 @@ public class GoombaWalk : MonoBehaviour
            // player.RigidbodyConstraints2D.FreezePositionX;
           //  player.RigidbodyConstraints2D.FreezePositionY;
             yield return new WaitForSeconds(1);
+            deathCount++;
+            deathCountTxt.text = "Deaths : " + deathCount;
            SceneManager.LoadScene("BigTestWorld");
         }
         if (collision.gameObject.tag == "hammer")
