@@ -9,9 +9,12 @@ public class GoombaWalk : MonoBehaviour
     private bool isFacingRight = true;
     private float horizontal;
     public float _speed = 4f;
+    
+    [SerializeField]
     private Text deathCountTxt;
     private int deathCount;
 
+    //public GameObject Deaths;
     public GameObject Player;
     private Rigidbody2D player;
     // Start is called before the first frame update

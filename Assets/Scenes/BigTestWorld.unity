@@ -986,6 +986,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 20
+  deathCountTxt: {fileID: 0}
   Player: {fileID: 0}
 --- !u!1 &427681774
 GameObject:
@@ -1020,6 +1021,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 20
+  deathCountTxt: {fileID: 0}
   Player: {fileID: 0}
 --- !u!50 &427681776
 Rigidbody2D:
