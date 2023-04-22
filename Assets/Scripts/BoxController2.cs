@@ -9,7 +9,7 @@ public class BoxController2 : MonoBehaviour
     public KeyCode rightKey = KeyCode.RightArrow;
     public KeyCode upKey = KeyCode.UpArrow;
     public KeyCode downKey = KeyCode.DownArrow;
-    public float   speed = 1.0f;
+    public float   speed = 16.0f;
 
     private Vector2 _moveVelocity;
     public Rigidbody2D _rigidBody;
