@@ -23,8 +23,8 @@ public class FlagTouch : MonoBehaviour
         if (col.gameObject.tag == "Player")
         {
             flagnoise.Play();
-            yield return new WaitForSeconds(5);
-            SceneManager.LoadScene("Level1Updated");
+            yield return new WaitForSeconds(2);
+            SceneManager.LoadScene("LevelSelect");
         }
     }
 }

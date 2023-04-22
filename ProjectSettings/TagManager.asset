@@ -13,6 +13,8 @@ TagManager:
   - block
   - enemy
   - hammer
+  - keyhole1
+  - keyhole2
   layers:
   - Default
   - TransparentFX
