@@ -17,5 +17,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BigTestWorld.unity
     guid: c3ce58d1a0cbc9b4b9798a96de5eddb9
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 21bd0e4d6cb046645afd3acb8c7a2667
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: a00d8a199e9184b4db38bb369a217adb
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: d5c6b400c77547f419dba6a6d9127182
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: d01d9ead4b2b3e546942eae9ca9b0c86
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 6ccc86a53ae2869478db4266a69191e4, type: 2}
