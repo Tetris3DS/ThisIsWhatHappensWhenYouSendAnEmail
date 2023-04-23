@@ -6,22 +6,14 @@ using UnityEngine.UI;
 using TMPro;
 public class GoombaWalk : MonoBehaviour
 {
+    public PlayerData PlayerData;
+
     private bool isFacingRight = true;
     private float horizontal;
     public float _speed = 4f;
     
-    [SerializeField]
-    private TMP_Text deathCountTxt;
-    private static int deathCount;
-
-    //public GameObject Deaths;
-    public GameObject Player;
-    private Rigidbody2D player;
-    // Start is called before the first frame update
-    void Start()
-    {
-        deathCountTxt.text = "Deaths : " + deathCount;
-    }
+    public TMP_Text deathCountTxt;
+    public static int deathCount;
 
     // Update is called once per frame
     void Update()
@@ -58,10 +50,9 @@ public class GoombaWalk : MonoBehaviour
             //player = Player.GetComponent<Rigidbody2D>();
            // player.RigidbodyConstraints2D.FreezePositionX;
           //  player.RigidbodyConstraints2D.FreezePositionY;
-            yield return new WaitForSeconds(1);
-            deathCount++;
-            deathCountTxt.text = "Deaths : " + deathCount;
-           SceneManager.LoadScene("BigTestWorld");
+            yield return new WaitForSeconds(0);
+            PlayerData.addDeath();
+            SceneManager.LoadScene("BigTestWorld");
         }
         if (collision.gameObject.tag == "hammer")
         {

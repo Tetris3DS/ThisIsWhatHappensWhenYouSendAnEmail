@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 public class FlagTouch : MonoBehaviour
 {
     public AudioSource flagnoise;
+    public Victory Victory;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,8 +25,10 @@ public class FlagTouch : MonoBehaviour
         if (col.gameObject.tag == "Player")
         {
             flagnoise.Play();
-            yield return new WaitForSeconds(2);
-            SceneManager.LoadScene("LevelSelect");
+            yield return new WaitForSeconds(0);
+
+            Victory.activateVictory("LevelSelect");
+            //SceneManager.LoadScene("LevelSelect");
         }
     }
 }
