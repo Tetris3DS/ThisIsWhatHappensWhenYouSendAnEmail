@@ -5174,6 +5174,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flagnoise: {fileID: 627930216}
   Victory: {fileID: 1876371768}
+  nextLevelName: Level2
 --- !u!50 &627930218
 Rigidbody2D:
   serializedVersion: 4

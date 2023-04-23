@@ -50763,7 +50763,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 567470527}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -541, y: 26.8, z: 0}
+  m_LocalPosition: {x: -500, y: 50, z: 0}
   m_LocalScale: {x: 99.46288, y: 99.46288, z: 99.46288}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -61036,6 +61036,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flagnoise: {fileID: 1819542199}
   Victory: {fileID: 1230323767}
+  nextLevelName: Level3
 --- !u!50 &1819542201
 Rigidbody2D:
   serializedVersion: 4
@@ -62331,6 +62332,14 @@ PrefabInstance:
       propertyPath: PlayerData
       value: 
       objectReference: {fileID: 567470537}
+    - target: {fileID: 3247187131824886622, guid: 1ee8aa2f86bd09a4c864f6627302ccd2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1230323767}
+    - target: {fileID: 3247187131824886622, guid: 1ee8aa2f86bd09a4c864f6627302ccd2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: continueToScene
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ee8aa2f86bd09a4c864f6627302ccd2, type: 3}
 --- !u!1 &1969256349

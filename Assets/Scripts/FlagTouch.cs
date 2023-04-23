@@ -8,6 +8,8 @@ public class FlagTouch : MonoBehaviour
     public AudioSource flagnoise;
     public Victory Victory;
 
+    public string nextLevelName;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -27,7 +29,7 @@ public class FlagTouch : MonoBehaviour
             flagnoise.Play();
             yield return new WaitForSeconds(0);
 
-            Victory.activateVictory("LevelSelect");
+            Victory.activateVictory(nextLevelName);
             //SceneManager.LoadScene("LevelSelect");
         }
     }

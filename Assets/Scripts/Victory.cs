@@ -25,6 +25,7 @@ public class Victory : MonoBehaviour
 
     public void continueToScene()
     {
+        UnityEngine.Debug.Log("yo");
         SceneManager.LoadScene(continueSceneName);
     }
 
