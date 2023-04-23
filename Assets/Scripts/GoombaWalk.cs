@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-
+using TMPro;
 public class GoombaWalk : MonoBehaviour
 {
     private bool isFacingRight = true;
@@ -11,8 +11,8 @@ public class GoombaWalk : MonoBehaviour
     public float _speed = 4f;
     
     [SerializeField]
-    private Text deathCountTxt;
-    private int deathCount;
+    private TMP_Text deathCountTxt;
+    private static int deathCount;
 
     //public GameObject Deaths;
     public GameObject Player;
@@ -20,7 +20,7 @@ public class GoombaWalk : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        deathCountTxt.text = "Deaths : " + deathCount;
     }
 
     // Update is called once per frame

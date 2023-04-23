@@ -13,9 +13,10 @@ public class CutsceneController : MonoBehaviour
     }
     IEnumerator TheSequence ()
     {
-        yield return new WaitForSeconds(23);
+        yield return new WaitForSeconds(0); //23
         PlayerCam.SetActive(true);
         CutsceneCam.SetActive(false);
     }
+
 
 }
