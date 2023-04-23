@@ -14,6 +14,7 @@ public class GoombaWalk : MonoBehaviour
     
     public TMP_Text deathCountTxt;
     public static int deathCount;
+    public string levelName;
 
     // Update is called once per frame
     void Update()
@@ -52,7 +53,7 @@ public class GoombaWalk : MonoBehaviour
           //  player.RigidbodyConstraints2D.FreezePositionY;
             yield return new WaitForSeconds(0);
             PlayerData.addDeath();
-            SceneManager.LoadScene("BigTestWorld");
+            SceneManager.LoadScene(levelName);
         }
         if (collision.gameObject.tag == "hammer")
         {
